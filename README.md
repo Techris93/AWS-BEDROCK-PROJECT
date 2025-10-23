@@ -161,3 +161,6 @@ To use it:
 - For any Terraform errors, ensure you're using a compatible version and that all module sources are correctly specified.
 
 For more detailed troubleshooting, refer to the error messages and logs provided by Terraform and the Python scripts.
+
+## References
+- https://github.com/udacity/cd13926-Building-Generative-AI-Applications-with-Amazon-Bedrock-and-Python-project-solution.git
